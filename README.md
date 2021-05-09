@@ -1,0 +1,2 @@
+# Movieworld
+My project name is Movie World. There is a huge collection of movies in the movie world store.My project required to make software that manage rental operations of movies. The aim of this project is that movie lovers of all ages can easily rent movies thanks to this Project. The program can be filtered by movie type imdb score so people can easily find the movie they are looking for. Also, users will be able to rent a special movie they want directly
